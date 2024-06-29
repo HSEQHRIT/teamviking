@@ -1,0 +1,25 @@
+{
+  "name": "Files",
+  "supportEmail": "fleet@teamviking.com",
+  "version": "1.0.0",
+  "solutionId" : "vikingFILES",
+  "items": [{
+      "url": "https://storage.googleapis.com/teamviking/GeoTab/viking-files/1.0.0/mygeotab/vikingFilesAddinMygeotab.html",
+      "path": "AdministrationLink/",
+      "category": "ProductivityId/",
+      "menuName": {
+        "en": "Files"
+      },
+      "icon": "https://storage.googleapis.com/teamviking/GeoTab/viking-files/1.0.0/icon.svg"
+    },
+    {
+      "url": "https://storage.googleapis.com/teamviking/GeoTab/viking-files/1.0.0/drive/vikingFilesAddinDrive.html",
+      "path": "DriveAppLink/",
+      "menuName": {
+        "en": "Files"
+      },
+      "icon": "https://storage.googleapis.com/teamviking/GeoTab/viking-files/1.0.0/icon.svg"
+    }
+  ],
+  "isSigned": true
+}
